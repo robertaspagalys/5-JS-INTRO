@@ -26,3 +26,11 @@ labas('Petras', 55, 'Lietuvoje');
 labas('Nijole', 77, 'Wilno');
 labas('Srekas', 103, 'swamp');
 
+// f(x) = x*x;
+
+function kvadaratu(x) {
+    console.log(x * x);
+}
+
+kvadaratu(5);
+kvadaratu(3);
