@@ -26,7 +26,3 @@ labas('Petras', 55, 'Lietuvoje');
 labas('Nijole', 77, 'Wilno');
 labas('Srekas', 103, 'swamp');
 
-const text = 'abcdef';
-function reverseString(text) {
-let reverse = '';
-}
