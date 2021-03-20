@@ -21,7 +21,7 @@ if (nuo <= iki) {
         suma += i;
     }
 } else {
-    for (let i = iki; i <= iki; i++) {
+    for (let i = iki; i <= nuo; i++) {
         suma += i;
     }
 }
